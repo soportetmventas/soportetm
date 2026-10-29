@@ -1,0 +1,19 @@
+{
+  "datos": {
+    "v": 1,
+    "id": "e69ba880",
+    "cliente": "Kiosco PETE",
+    "negocio": "Kiosco PETE",
+    "modo": "kiosco",
+    "emitida": "2026-10-29",
+    "vence": "2026-09-08",
+    "contacto": "TM Ventas · 3404 415603",
+    "notas": "",
+    "dominio": "c-e69ba880.tmventas.com.ar",
+    "carta": {
+      "usuario": "contactotmventas",
+      "repo": "carta-kiosco-pete"
+    }
+  },
+  "firma": "6rl9zFcTkX+Q3twPvmd0st3XlF43sY2Uiq1sB9z4bjtxTjM/HLoiy+x1qezP27SgDQaz0HahQZ0Pr1f+tZfWBw=="
+}
