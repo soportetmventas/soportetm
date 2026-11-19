@@ -5,8 +5,8 @@
     "cliente": "Rotiseria Don Pepe",
     "negocio": "Don Pepe",
     "modo": "rotiseria",
-    "emitida": "2026-11-04",
-    "vence": "2026-11-14",
+    "emitida": "2026-11-19",
+    "vence": "2026-12-19",
     "contacto": "3404415603",
     "notas": "",
     "dominio": "c-097dacd7.tmventas.com.ar",
@@ -16,5 +16,5 @@
       "repo": "carta-rotiseria-don-pepe"
     }
   },
-  "firma": "HEEcdYh4E9r3cPNzYML9jqhvdCnPd4cjpgsjaT8L4vY18YGcalkJl//qGJSvRjhkL09qxJ1RUQmpph8ayxL3Bg=="
+  "firma": "S1+x6QpZ/zkbfpk0t8r/2flW0awG7yKMkbkk3cnOwfao4pIJ3n1MJcSwOzEblGN04vDMQot2wReQVTdcHmcnDA=="
 }
